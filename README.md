@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushi-22&label=Profile%20views&color=0e75b6&style=flat" alt="tharushi-22" /> </p>
 
 ---
-<h3 align="left">About:</h3>
+<h3 align="left">About me:</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
