@@ -64,17 +64,18 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tharushi-22&layout=compact&theme=tokyonight" alt="Top Languages" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-22&layout=compact&theme=tokyonight)
 
   <br><br>
 
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tharushi-22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharushi-22&show_icons=true&theme=tokyonight)
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=tharushi-22&theme=tokyonight" alt="GitHub Streak" />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tharushi-22&theme=tokyonight)
 
 </div>
+
 
 
 
