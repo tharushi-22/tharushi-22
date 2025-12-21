@@ -9,8 +9,8 @@
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **MERN stack**
-- 🎓 I'm an undergraduate at **SLIIT**
+- 🎓 Undergraduate at **SLIIT**
+- 🌱 Currently learning **MERN stack**
 
 ---
 
