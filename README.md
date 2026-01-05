@@ -68,7 +68,7 @@
 </p>
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushi-22&show_icons=true&bg_color=0D1117&title_color=1E90FF&text_color=C9D1D9&icon_color=1E90FF&border_color=30363D" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharushi-22&show_icons=true&bg_color=0D1117&title_color=1E90FF&text_color=C9D1D9&icon_color=1E90FF&border_color=30363D" alt="GitHub Stats"/>
 </p>
 
 <p>
