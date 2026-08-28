@@ -10,7 +10,7 @@
 <h3 align="left">About me:</h3>
 
 - 🎓 Undergraduate at **SLIIT**
-- 🌱 Currently learning **MERN stack**
+- 🌱 Currently learning **Flutter**
 
 ---
 
